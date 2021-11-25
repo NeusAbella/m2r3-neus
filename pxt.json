@@ -1,5 +1,6 @@
 {
     "name": "M2R3 Neus",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
